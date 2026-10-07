@@ -41,8 +41,7 @@ Install R 4.1 or later and the required packages:
 ```r
 install.packages(c(
   "readxl", "dplyr", "tidyr", "survival",
-  "stringi", "ranger", "xgboost", "nnet"
-))
+  "stringi", "ranger", "xgboost", "nnet"))
 ```
 
 Clone the repository, keep the two Excel files in the project root, and run:
