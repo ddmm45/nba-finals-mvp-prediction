@@ -69,7 +69,3 @@ The original conference-paper dataset was compiled from [Basketball-Reference](h
 - There is only one winner per season, creating a small and imbalanced prediction problem.
 - Clutch metrics are unavailable before 1997.
 - Historical validation performance does not guarantee future predictive performance.
-
-## Authors
-
-The conference paper was coauthored by Tung Wai Chen and Michael Johnson. Repository code and later extensions should be credited according to their actual contributions.
