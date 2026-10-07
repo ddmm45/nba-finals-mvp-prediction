@@ -1,0 +1,4 @@
+*.R text eol=lf
+*.md text eol=lf
+*.xlsx binary
+*.pdf binary

@@ -1,0 +1,14 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Generated outputs
+*.log
+
+# Coauthored manuscript: add only after confirming publication and coauthor rights
+FMVP Prediction Paper ISACE.pdf
